@@ -17,6 +17,7 @@ Once you are done, submit a Pull Request with a brief description of your change
 
 1. Allow users to provide the location to which they want to see the weather details from
 2. Refresh the page every 30 seconds and also allow manual refresh
+3. Centralize the card, fix the city name bar and replace the sky condition with an image (any image, but make sure to account for different types)
 4. Make sure to cover basic edge cases (list those cases in the Pull Request description)
 
 ## 2nd Challenge
@@ -25,6 +26,7 @@ Once you are done, submit a Pull Request with a brief description of your change
 2. Display a table of the next days temperature and description
    1. Bonus points if they are associated with an image representing the weather condition
 3. Refresh the page every 30 seconds and also allow manual refresh
+4. Both the table and the hourly display must look nice (we are not looking for a UI/UX expertise as much as making sure elements are not overlaping each other nor things are out of alignment)
 5. Make sure to cover basic edge cases (list those cases in the Pull Request description)
 6. Use this API in order to retrieve the data you will need: https://openweathermap.org/api/one-call-api
 
